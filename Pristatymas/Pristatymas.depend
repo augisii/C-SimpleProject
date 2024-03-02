@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709391753 source:c:\users\user\documents\projektasdarbas\pristatymas\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
