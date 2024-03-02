@@ -24,7 +24,6 @@ bool isBoardFull(char board[3][3]) {
     }
     return true; // Board is full
 }
-s
 bool checkWin(char board[3][3], char player) {
     // Check rows and columns
     for (int i = 0; i < 3; i++) {
