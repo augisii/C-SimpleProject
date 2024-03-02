@@ -1,5 +1,7 @@
-Atsidaro GameHub Meniu su 4 pasirinkimais:
-TicTacToe - Paleidžia žaidimą TicTacToe ir duoda pasirinkimą ar žaisti prieš draugą-ę, ar prieš kompiuterį.
-CoinFlip - Atsidaro žaidimas CoinFlip ir duoda pasirinkimą ar žaisti prieš draugą-ę, ar prieš kompiuterį.
-RockPaperScissors - Atsidaro žaidimas RockPaperScissors ir duoda pasirinkimą ar žaisti prieš draugą-ę, ar prieš kompiuterį.
-Exit - Išjungia aplikaciją ir uždaro.
+## GameHub Programos Instrukcija:
+
+1. Atidarykite GameHub Meniu su 4 pasirinkimais:
+   - **TicTacToe:** Paleidžia žaidimą TicTacToe ir suteikia pasirinkimą žaisti prieš draugą arba kompiuterį.
+   - **CoinFlip:** Atidaro žaidimą CoinFlip ir suteikia pasirinkimą žaisti prieš draugą arba kompiuterį.
+   - **RockPaperScissors:** Atidaro žaidimą RockPaperScissors ir suteikia pasirinkimą žaisti prieš draugą arba kompiuterį.
+   - **Exit:** Išjungia aplikaciją ir ją uždaro.
