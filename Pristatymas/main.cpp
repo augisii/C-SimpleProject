@@ -146,7 +146,6 @@ void playTicTacToeAgainstFriend() {
 }
 
 void playCoinFlipAgainstComputer() {
-    srand(time(0));
 
     cout << "Player 1, choose heads (0) or tails (1): ";
     int player1Choice;
@@ -164,7 +163,6 @@ void playCoinFlipAgainstComputer() {
 }
 
 void playCoinFlipAgainstFriend() {
-    srand(time(0));
 
     cout << "Player 1, choose heads (0) or tails (1): ";
     int player1Choice;
@@ -220,7 +218,6 @@ void playRockPaperScissorsAgainstFriendHidden() {
 
 
 void playRockPaperScissorsAgainstComputer() {
-    srand(time(0));
 
     cout << "Player 1, choose Rock (0), Paper (1), or Scissors (2): ";
     int playerChoice;
