@@ -1,6 +1,4 @@
 ## GameHub Programos Instrukcija:
-
-1. Atidarote GameHub Meniu su 4 pasirinkimais:
 1. **TicTacToe**
    - Pasirinkite 1 pasirinkimą iš meniu.
    - Pasirinkite, ar norite žaisti su draugu (1) arba su kompiuteriu (2).
